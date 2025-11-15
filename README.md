@@ -57,7 +57,7 @@ The project interface and all in-text elements are in **Simplified Chinese**.
 # Others
 
 1.  As of UTC+8 (Beijing Time) 2025-11-15 23:00, this project contains 1061​ blocks.截止UTC+8（北京时间）2025年11月15日23时，本项目包含1055个积木
-2.  Please note that updates to this repository might not always be immediate.
+2.  Please note that updates to this repository might not always be immediate.请注意，此库的更新可能并不总是及时的。
 
 ## ⚖️ License & Usage / 许可与使用
 
