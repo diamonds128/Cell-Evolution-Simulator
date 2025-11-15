@@ -31,9 +31,15 @@ It was built with **TurboWarp** and utilizes some of its exclusive extensions.
 2.  Open it in the **TurboWarp** editor or player.
     在 **TurboWarp** 编辑器或播放器中打开它
 
-3.  Click the green flag to start
+3.  Click the green flag to start.
     点击绿旗开始运行
 
+**Alternative Methods / 其他运行方式：**
+- You can also download the pre-packaged HTML file, which should run in most modern web browsers.
+  你也可以直接下载已经打包完毕的HTML文件，理论上大部分现代浏览器都能运行它
+- There may be plans to package it as an executable (EXE) file in the future.
+  后续也有可能打包成exe
+  
 ## 🌐 Language / 语言支持
 
 The project interface and all in-text elements are in **Simplified Chinese**.
