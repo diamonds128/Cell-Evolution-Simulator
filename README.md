@@ -56,7 +56,7 @@ The project interface and all in-text elements are in **Simplified Chinese**.
 
 # Others
 
-1.  As of UTC+8 (Beijing Time) 2025-11-15 23:00, this project contains 1061​ blocks.截止UTC+8（北京时间）2025年11月15日23时，本项目包含1061个积木
+1.  As of UTC+8 (Beijing Time) 2025-11-15 23:00, this project contains 1061​ blocks.截止UTC+8（北京时间）2025年11月15日23时，本项目包含1055个积木
 2.  Please note that updates to this repository might not always be immediate.
 
 ## ⚖️ License & Usage / 许可与使用
@@ -68,7 +68,7 @@ You are permitted to:
     重新分发本项目
 
 *   Remix, adapt, and build upon this material.
-    混音、改编和基于此材料进行构建
+    对此项目进行分叉、修改和二次开发
 
 Under the following terms:
 遵循以下条款：
