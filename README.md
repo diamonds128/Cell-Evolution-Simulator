@@ -48,16 +48,10 @@ The project interface and all in-text elements are in **Simplified Chinese**.
 *   There are **no immediate plans** to add support for other languages.
     **暂时没有计划**增加对其他语言的支持
 
-*   The amount of text used throughout the project is **not extensive**.
-    整个项目中使用的文本量**不是特别多**
+## Others
 
-*   The interface is designed to be intuitive, so you should be able to use it without significant difficulty even if you do not understand Chinese.
-    界面设计直观，即使你不会中文，也应该没有多困难使用它
-
-# Others
-
-1.  As of UTC+8 (Beijing Time) 2025-11-15 23:00, this project contains 1061​ blocks.截止UTC+8（北京时间）2025年11月15日23时，本项目包含1055个积木
-2.  Please note that updates to this repository might not always be immediate.请注意，此库的更新可能并不总是及时的。
+1.  As of UTC+8 (Beijing Time) 2025-11-20 20:09, this project contains 1061​ blocks.截止UTC+8（北京时间）2025-11-20 20:09，本项目包含1132个积木
+2.  Please note that updates to this repository might not always be immediate.请注意，此库的更新可能并不总是及时的
 
 ## ⚖️ License & Usage / 许可与使用
 
